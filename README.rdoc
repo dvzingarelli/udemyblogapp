@@ -1,3 +1,6 @@
+test rails blog app - davezing
+
+
 == README - updated
 
 This README would normally document whatever steps are necessary to get the
